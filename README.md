@@ -12,7 +12,8 @@ Your printer is not working? Your PC keeps crashing? Your email cannot be send? 
 While we do fix IT problems, we also have some problems of our own at the office. To make things easier, i code and design small software.
 
 ## Shortage problems, and where to find them
-Currently we have shortage of students at several locations. Those 
+Currently we have shortage of students at several locations. Everytime a customer calls us, and we note down we don't have a available student near them, we write that down in our system.
+After a while, we can convert all that data into a excel sheet.
 
 Currently the one that i'm working one is a "Excel-to-graph"program in python. Excel itself does have several functions to make a bar graph, but sometimes it's a bit too much for the average user. 
 My company constantly has new data of customers, and want's a easy way to change all that data into a bar graph. 
